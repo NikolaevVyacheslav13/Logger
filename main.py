@@ -8,7 +8,7 @@ from datetime import datetime
 OS_W = psutil.WINDOWS
 
 path = input('Catalog: ')
-delay = int(input('Timeout: '))
+time_delta = int(input('Timeout: '))
 
 if  OS_W  == True:
     os.startfile(path)
@@ -30,7 +30,7 @@ if  OS_W  == True:
                         print(f'Private Bytes: {i.memory_full_info()[-2]}')
                         f.write(f'handle: {i.num_handles()}\n')
                         print(f'handle: {i.num_handles()}')
-                        time.sleep(delay)
+                        time.sleep(time_delta)
     except:
         pass
 
@@ -53,6 +53,6 @@ if psutil.LINUX == True:
                         print(f'Virtual Memory Size: {i.memory_full_info()[1]}')
                         f.write(f'Descriptors: {i.num_fds()}\n')
                         print(f'Descriptors: {i.num_fds()}')
-                        time.sleep(delay)
+                        time.sleep(time_delta)
     except:
         pass
