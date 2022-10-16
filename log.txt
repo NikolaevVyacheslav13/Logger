@@ -1,0 +1,282 @@
+Datetime: 2022-10-16 14:28:32.418627
+cpu: 0.0
+Working Set: 24809472
+Private Bytes: 14942208
+handle: 235
+Datetime: 2022-10-16 14:28:33.436566
+cpu: 26.2
+Working Set: 28315648
+Private Bytes: 15515648
+handle: 265
+Datetime: 2022-10-16 14:28:34.453564
+cpu: 22.7
+Working Set: 28422144
+Private Bytes: 15515648
+handle: 265
+Datetime: 2022-10-16 14:28:35.475507
+cpu: 10.8
+Working Set: 28311552
+Private Bytes: 15405056
+handle: 265
+Datetime: 2022-10-16 14:28:36.496386
+cpu: 13.8
+Working Set: 28311552
+Private Bytes: 15405056
+handle: 265
+Datetime: 2022-10-16 14:28:37.508362
+cpu: 15.4
+Working Set: 28311552
+Private Bytes: 15405056
+handle: 265
+Datetime: 2022-10-16 14:28:38.530324
+cpu: 12.3
+Working Set: 28311552
+Private Bytes: 15405056
+handle: 265
+Datetime: 2022-10-16 14:28:39.552264
+cpu: 16.7
+Working Set: 28311552
+Private Bytes: 15405056
+handle: 265
+Datetime: 2022-10-16 14:28:40.576207
+cpu: 10.8
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:41.600146
+cpu: 13.6
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:42.622057
+cpu: 12.3
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:43.646023
+cpu: 12.1
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:44.669959
+cpu: 16.9
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:45.698902
+cpu: 12.1
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:46.727842
+cpu: 3.0
+Working Set: 28319744
+Private Bytes: 15405056
+handle: 267
+Datetime: 2022-10-16 14:28:47.747782
+cpu: 0.0
+Working Set: 28356608
+Private Bytes: 15413248
+handle: 267
+Datetime: 2022-10-16 14:28:48.777708
+cpu: 0.0
+Working Set: 28356608
+Private Bytes: 15413248
+handle: 267
+Datetime: 2022-10-16 14:28:49.793641
+Datetime: 2022-10-16 14:29:56.247617
+cpu: 0.0
+Working Set: 41316352
+Private Bytes: 15663104
+handle: 654
+Datetime: 2022-10-16 14:29:57.318473
+cpu: 208.7
+Working Set: 130330624
+Private Bytes: 61046784
+handle: 1107
+Datetime: 2022-10-16 14:29:58.419408
+cpu: 71.4
+Working Set: 133951488
+Private Bytes: 62287872
+handle: 1311
+Datetime: 2022-10-16 14:29:59.482346
+cpu: 23.5
+Working Set: 135323648
+Private Bytes: 62758912
+handle: 1325
+Datetime: 2022-10-16 14:30:00.530283
+cpu: 86.6
+Working Set: 148733952
+Private Bytes: 68964352
+handle: 1523
+Datetime: 2022-10-16 14:30:01.659217
+cpu: 11.1
+Working Set: 147714048
+Private Bytes: 68853760
+handle: 1521
+Datetime: 2022-10-16 14:30:02.718155
+cpu: 29.4
+Working Set: 153227264
+Private Bytes: 70164480
+handle: 1492
+Datetime: 2022-10-16 14:30:03.839089
+cpu: 21.1
+Working Set: 151441408
+Private Bytes: 70098944
+handle: 1441
+Datetime: 2022-10-16 14:30:04.920024
+cpu: 26.1
+Working Set: 151482368
+Private Bytes: 69472256
+handle: 1438
+Datetime: 2022-10-16 14:30:05.968031
+cpu: 10.3
+Working Set: 151494656
+Private Bytes: 69468160
+handle: 1424
+Datetime: 2022-10-16 14:30:07.009900
+cpu: 27.3
+Working Set: 151584768
+Private Bytes: 69525504
+handle: 1424
+Datetime: 2022-10-16 14:30:08.063930
+cpu: 8.8
+Working Set: 152678400
+Private Bytes: 70270976
+handle: 1428
+Datetime: 2022-10-16 14:30:09.119778
+cpu: 9.0
+Working Set: 153194496
+Private Bytes: 70103040
+handle: 1429
+Datetime: 2022-10-16 14:30:10.190749
+cpu: 7.2
+Working Set: 153817088
+Private Bytes: 70213632
+handle: 1432
+Datetime: 2022-10-16 14:30:11.239654
+cpu: 14.9
+Working Set: 155000832
+Private Bytes: 72302592
+handle: 1422
+Datetime: 2022-10-16 14:30:12.311590
+cpu: 2.9
+Working Set: 156327936
+Private Bytes: 71823360
+handle: 1430
+Datetime: 2022-10-16 14:30:13.385582
+cpu: 5.9
+Working Set: 153907200
+Private Bytes: 71069696
+handle: 1425
+Datetime: 2022-10-16 14:30:14.461466
+cpu: 5.8
+Working Set: 153300992
+Private Bytes: 70402048
+handle: 1425
+Datetime: 2022-10-16 14:30:15.525399
+cpu: 14.7
+Working Set: 155877376
+Private Bytes: 70516736
+handle: 1479
+Datetime: 2022-10-16 14:30:16.568337
+cpu: 16.4
+Working Set: 155127808
+Private Bytes: 70737920
+handle: 1477
+Datetime: 2022-10-16 14:30:17.629274
+cpu: 42.7
+Working Set: 155004928
+Private Bytes: 71471104
+handle: 1513
+Datetime: 2022-10-16 14:30:18.692213
+cpu: 10.3
+Working Set: 155783168
+Private Bytes: 71405568
+handle: 1516
+Datetime: 2022-10-16 14:30:19.754151
+cpu: 10.3
+Working Set: 155115520
+Private Bytes: 71385088
+handle: 1515
+Datetime: 2022-10-16 14:30:20.799139
+cpu: 9.0
+Working Set: 155295744
+Private Bytes: 71393280
+handle: 1514
+Datetime: 2022-10-16 14:30:21.873082
+cpu: 4.4
+Working Set: 156844032
+Private Bytes: 73289728
+handle: 1509
+Datetime: 2022-10-16 14:30:22.949023
+cpu: 0.0
+Working Set: 156581888
+Private Bytes: 73289728
+handle: 1508
+Datetime: 2022-10-16 14:30:24.019016
+cpu: 5.8
+Working Set: 155582464
+Private Bytes: 72105984
+handle: 1508
+Datetime: 2022-10-16 14:30:25.073047
+cpu: 10.4
+Working Set: 155320320
+Private Bytes: 71630848
+handle: 1508
+Datetime: 2022-10-16 14:30:26.143160
+cpu: 2.9
+Working Set: 155017216
+Private Bytes: 70840320
+handle: 1508
+Datetime: 2022-10-16 14:30:27.217100
+cpu: 2.9
+Working Set: 155123712
+Private Bytes: 70922240
+handle: 1508
+Datetime: 2022-10-16 14:30:28.278035
+cpu: 1.5
+Working Set: 154923008
+Private Bytes: 70688768
+handle: 1508
+Datetime: 2022-10-16 14:30:29.332917
+cpu: 1.5
+Working Set: 154923008
+Private Bytes: 70582272
+handle: 1490
+Datetime: 2022-10-16 14:30:30.378911
+cpu: 0.0
+Working Set: 154791936
+Private Bytes: 70451200
+handle: 1474
+Datetime: 2022-10-16 14:30:31.442823
+cpu: 0.0
+Working Set: 154816512
+Private Bytes: 70451200
+handle: 1474
+Datetime: 2022-10-16 14:30:32.504728
+cpu: 1.5
+Working Set: 154865664
+Private Bytes: 70496256
+handle: 1474
+Datetime: 2022-10-16 14:30:33.556724
+cpu: 0.0
+Working Set: 154865664
+Private Bytes: 70496256
+handle: 1474
+Datetime: 2022-10-16 14:30:34.618720
+cpu: 0.0
+Working Set: 154865664
+Private Bytes: 70496256
+handle: 1474
+Datetime: 2022-10-16 14:30:35.757200
+cpu: 8.2
+Working Set: 156532736
+Private Bytes: 70549504
+handle: 1476
+Datetime: 2022-10-16 14:30:36.900133
+cpu: 9.6
+Working Set: 155992064
+Private Bytes: 70316032
+handle: 1474
+Datetime: 2022-10-16 14:30:37.988495
